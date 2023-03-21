@@ -20,6 +20,7 @@ public class If {
 	{
 		If  obj1=new If();
 		obj1.m7();
+		 System.out.println("Hai");
 	}	
 
 }
